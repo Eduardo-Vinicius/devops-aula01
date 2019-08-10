@@ -1,0 +1,17 @@
+
+Aplicativo: Meus Trocados
+
+Nome: Davi Hideo 1900814
+
+
+-  Componente Sincronização Cartões (Crédito e Débito);
+
+-  Componente Calcular salario - calcula salario do usuário
+
+-  Componente calcular dividas - calcula montante de dividas
+
+-  Componente avaliar bolsas de valores - avalia bolsas disponiveis 
+
+-  Componente Gráficos de gasto - disponibiliza grafico elaborado através de dados obtidos
+
+-  Componente de Poupança - Demonstra Saldo aplicado na poupança;
