@@ -1,0 +1,52 @@
+
+Aplicativo: Meus Trocados
+
+cartao = input(int('Digite numero do cartao'))
+cod_seg = input(int('Digite codigo de seguranca'))
+nome = input(string('Nome exibido no cartao'))
+validade = input(string('Validade exibido no cartao'))
+
+_________________________________________________________________________________
+
+
+if (cartao and cod_seg and nome and validade) == True:
+	start.sinc.py
+	print('Sincronizacao completa')
+else:
+	print('dados incorretos')
+
+_________________________________________________________________________________
+
+
+if salario > dividas:
+	print('Seu saldo é positivo')
+else:
+	print('Seu saldo é negativo')
+
+
+_________________________________________________________________________________
+
+if exists bolsa_valores:
+	print('Existem bolsas de valores com grande tendencia a crescimento:')
+	print('Bolsas...')
+
+_________________________________________________________________________________
+
+saldo = salario - dividas
+ 
+if saldo > 500:
+	print('Por que não aplicar dinheiro na poupança?')
+else:
+	print('O seu saldo está baixo, cuidado com as dividas!!')
+
+
+def gasto (dinheiro):
+	lista_gastos = []
+	if dinheiro>0:
+		lista_gastos.append(dinheiro)
+	else:
+		return('Dinheiro Incorreto')
+	return ('Dinheiro gasto!')
+		
+
+

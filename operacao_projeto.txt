@@ -1,0 +1,20 @@
+
+Aplicativo: Meus Trocados
+
+Windows - 2016 Standard R2
+Memória - 8gb
+Banco de Dados = Oracle
+Processador Xeon E5-2630
+
+
+-  Componente Sincronização Cartões (Crédito e Débito) - OK
+
+-  Componente Calcular salario - calcula salario do usuário - OK
+
+-  Componente calcular dividas - calcula montante de dividas - OK
+
+-  Componente avaliar bolsas de valores - avalia bolsas disponiveis - OK
+
+-  Componente Gráficos de gasto - disponibiliza grafico elaborado através de dados obtidos - OK
+
+-  Componente de Poupança - Demonstra Saldo aplicado na poupança - OK
